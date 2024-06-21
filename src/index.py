@@ -91,7 +91,7 @@ async def get_centralops_data(update: Update, context: CallbackContext) -> None:
 
 def main():
     # Your bot token from BotFather
-    BOT_TOKEN = '6665952955:AAHsv-6y0i9kb3e3fhT-0gFLv2RXTnaOvv8'
+    BOT_TOKEN = '6665952955:AAHsv-6y0i9e3fhT-0gFLv2RXTnaOvv8'
     
     # Create the Application and pass it your bot's token
     application = Application.builder().token(BOT_TOKEN).build()
